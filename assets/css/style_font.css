@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'arsenalbold';
+    src: url('../fonts/arsenal-bold-webfont.woff2') format('woff2'),
+         url('../fonts/arsenal-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arsenalbold_italic';
+    src: url('../fonts/arsenal-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/arsenal-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arsenalitalic';
+    src: url('../fonts/arsenal-italic-webfont.woff2') format('woff2'),
+         url('../fonts/arsenal-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arsenalregular';
+    src: url('../fonts/arsenal-regular-webfont.woff2') format('woff2'),
+         url('../fonts/arsenal-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
