@@ -36,10 +36,10 @@ This application is covered by the MIT license.
   
 ## Links
 GitHub: https://github.com/hmarkestrad/Budget-Tracker-Estrada.git  
-Deployed: https://hmarkestrad.github.io/Book-Search-Engine/  
+Deployed: https://budget-tracker-estrada.herokuapp.com  
 
 ## Screen Shot
-![Book-Search-Engine](screenshot.png)
+![Book-Search-Engine](public/screenshot.png)
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
