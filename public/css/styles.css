@@ -33,8 +33,14 @@ tr:nth-child(even) {
 }
 
 .total {
-  font-size: 150%;
-  text-decoration: underline;
+  font-size: 1.75rem;
+  border: 2px solid rgb(250, 0, 0);
+  padding: 10px;
+  border-radius: 8px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
 }
 
 .form {
