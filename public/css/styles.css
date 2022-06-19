@@ -34,7 +34,7 @@ tr:nth-child(even) {
 
 .total {
   font-size: 1.75rem;
-  border: 2px solid rgb(250, 0, 0);
+  border: 2px solid #ff7700fa;
   padding: 10px;
   border-radius: 8px;
   width: 25%;
